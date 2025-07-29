@@ -1,4 +1,4 @@
-# Neurapath
+# 🧠 Neurapath – Evidence-based effective studying platform
 
 Neurapath is a web-based learning platform designed for evidence-based effective studying. It implements proven methods such as spaced repetition (SM-2), interleaved practice, and incremental reading to optimize learning outcomes.
 
