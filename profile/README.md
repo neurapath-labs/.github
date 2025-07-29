@@ -14,39 +14,6 @@ Neurapath is a web-based learning platform designed for evidence-based effective
 - **Data Export/Import**: Save and restore your learning database
 - **Hierarchical Organization**: Folder-based structure for organizing learning materials
 
-## Getting Started
-
-### Prerequisites
-
-- [Bun](https://bun.sh/) (package manager and runtime)
-- Node.js (v18 or higher)
-
-### Usage
-
-1. **Creating an Account**
-   - Visit the login page
-   - Enter a username and password
-   - The system will automatically create an account if it doesn't exist
-
-2. **Creating Learning Items**
-   - **Cloze Deletions**: Select text and press `Ctrl+C` (default)
-   - **Text Extracts**: Select text and press `Ctrl+X` (default)
-   - **Image Occlusions**: 
-     1. Drag and drop an image into the main window
-     2. Draw rectangles over areas to hide
-     3. Press `Ctrl+Z` (default) to create the occlusion
-
-3. **Learning Mode**
-   - Click the "Engage!" button in the left sidebar
-   - Review items using the spacebar to reveal answers
-   - Rate your recall with `Ctrl+1` (very hard) to `Ctrl+5` (very easy)
-
-4. **Organizing Content**
-   - Right-click in the left sidebar to create folders
-   - Drag and drop items to reorganize
-   - Right-click items to rename or delete them
-
-
 ### License
 
 This project is licensed under the Apache-2.0 license.
